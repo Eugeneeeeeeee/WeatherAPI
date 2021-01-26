@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wivchbrPqzb60no4biPwZOwoXCqtuXiUHMTajTu/FmqK5Wz3XlYrhKqi9XjQtuNVY92kOH6uQ71K5XoK9vXDQw==",
+  "dgSpecHash": "lwkbY0zMtXrpmqc2C+hGc3CybEv4whQI2p/JT34MLkjGft8EcFOMuI3IONwQtuxcU43oEfyyENCB8MoouAwbPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eugene\\Desktop\\Weather1\\Weather1\\Weather1\\Weather1.csproj",
+  "projectFilePath": "E:\\Programs\\Weather1\\Weather1\\Weather1\\Weather1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eugene\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Eugene\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eugene\\Desktop\\Weather1\\Weather1\\Weather1\\Weather1.csproj": {}
+    "E:\\Programs\\Weather1\\Weather1\\Weather1\\Weather1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eugene\\Desktop\\Weather1\\Weather1\\Weather1\\Weather1.csproj": {
+    "E:\\Programs\\Weather1\\Weather1\\Weather1\\Weather1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eugene\\Desktop\\Weather1\\Weather1\\Weather1\\Weather1.csproj",
+        "projectUniqueName": "E:\\Programs\\Weather1\\Weather1\\Weather1\\Weather1.csproj",
         "projectName": "Weather1",
-        "projectPath": "C:\\Users\\Eugene\\Desktop\\Weather1\\Weather1\\Weather1\\Weather1.csproj",
+        "projectPath": "E:\\Programs\\Weather1\\Weather1\\Weather1\\Weather1.csproj",
         "packagesPath": "C:\\Users\\Eugene\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eugene\\Desktop\\Weather1\\Weather1\\Weather1\\obj\\",
+        "outputPath": "E:\\Programs\\Weather1\\Weather1\\Weather1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -11,7 +11,7 @@ namespace Weather1.Models
         public string City { get; set; }
         public DateTime Date { get; set; }
         public double Temperature { get; set; }
-        public int Wind_Speed { get; set; }
+        public double Wind_Speed { get; set; }
         public int Cloudy { get; set; }
     }
 }

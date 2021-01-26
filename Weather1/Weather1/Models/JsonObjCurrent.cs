@@ -48,7 +48,7 @@ namespace Weather1.Models
     }
     public class wind
     {
-        public int speed { get; set; }
+        public double speed { get; set; }
         public int deg { get; set; }
     }
     public class clouds
